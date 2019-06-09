@@ -8,10 +8,4 @@ dev 分支第一次修改
 master修改
 master 最新最新修改
 
-4.git checkout -- readme.txt
-dev 分支第一次修改
-啊啊啊啊啊发达好打发斯蒂芬数据
-dev 最新修改
-master又更新了
-
 最后一次更新
